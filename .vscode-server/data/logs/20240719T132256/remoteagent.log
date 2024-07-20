@@ -1,0 +1,36 @@
+2024-07-19 13:22:56.990 [info] 
+
+
+
+
+2024-07-19 13:22:57.003 [info] Extension host agent started.
+2024-07-19 13:22:57.577 [info] [<unknown>][68e30228][ExtensionHostConnection] New connection established.
+2024-07-19 13:22:57.578 [info] [<unknown>][8627c66c][ManagementConnection] New connection established.
+2024-07-19 13:22:57.674 [info] [<unknown>][68e30228][ExtensionHostConnection] <9144> Launched Extension Host Process.
+2024-07-19 13:23:56.713 [info] Getting Manifest... ms-python.python
+2024-07-19 13:23:56.735 [info] Installing extension: ms-python.python {"installPreReleaseVersion":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/azureuser/.vscode-server/extensions/extensions.json","external":"file:///home/azureuser/.vscode-server/extensions/extensions.json","path":"/home/azureuser/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.91.1","date":"2024-07-09T22:08:48.553Z"}}
+2024-07-19 13:23:56.947 [info] Getting Manifest... ms-python.vscode-pylance
+2024-07-19 13:23:56.973 [info] Getting Manifest... ms-python.debugpy
+2024-07-19 13:23:57.011 [info] Installing extension: ms-python.vscode-pylance {"installPreReleaseVersion":false,"context":{"clientTargetPlatform":"win32-x64","dependecyOrPackExtensionInstall":true},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/azureuser/.vscode-server/extensions/extensions.json","external":"file:///home/azureuser/.vscode-server/extensions/extensions.json","path":"/home/azureuser/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.91.1","date":"2024-07-09T22:08:48.553Z"}}
+2024-07-19 13:23:57.011 [info] Installing extension: ms-python.debugpy {"installPreReleaseVersion":false,"context":{"clientTargetPlatform":"win32-x64","dependecyOrPackExtensionInstall":true},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/azureuser/.vscode-server/extensions/extensions.json","external":"file:///home/azureuser/.vscode-server/extensions/extensions.json","path":"/home/azureuser/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.91.1","date":"2024-07-09T22:08:48.553Z"}}
+2024-07-19 13:24:02.071 [info] Extension signature verification result for ms-python.debugpy: Success. Executed: true. Duration: 4582ms.
+2024-07-19 13:24:02.208 [info] Extension signature verification result for ms-python.python: Success. Executed: true. Duration: 4759ms.
+2024-07-19 13:24:02.981 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Executed: true. Duration: 4581ms.
+2024-07-19 13:24:03.663 [info] Extracted extension to file:///home/azureuser/.vscode-server/extensions/ms-python.debugpy-2024.8.0-linux-x64: ms-python.debugpy
+2024-07-19 13:24:03.706 [info] Renamed to /home/azureuser/.vscode-server/extensions/ms-python.debugpy-2024.8.0-linux-x64
+2024-07-19 13:24:05.863 [info] Extracted extension to file:///home/azureuser/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64: ms-python.python
+2024-07-19 13:24:05.897 [info] Renamed to /home/azureuser/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64
+2024-07-19 13:24:10.524 [info] Extracted extension to file:///home/azureuser/.vscode-server/extensions/ms-python.vscode-pylance-2024.7.1: ms-python.vscode-pylance
+2024-07-19 13:24:10.550 [info] Renamed to /home/azureuser/.vscode-server/extensions/ms-python.vscode-pylance-2024.7.1
+2024-07-19 13:24:10.595 [info] Extension installed successfully: ms-python.debugpy file:///home/azureuser/.vscode-server/extensions/extensions.json
+2024-07-19 13:24:10.595 [info] Extension installed successfully: ms-python.python file:///home/azureuser/.vscode-server/extensions/extensions.json
+2024-07-19 13:24:10.595 [info] Extension installed successfully: ms-python.vscode-pylance file:///home/azureuser/.vscode-server/extensions/extensions.json
+2024-07-19 13:27:57.004 [info] New EH opened, aborting shutdown
+2024-07-19 14:47:47.525 [info] [<unknown>][8627c66c][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-07-19 17:47:28.072 [info] [<unknown>][68e30228][ExtensionHostConnection] <9144> Extension Host Process exited with code: 0, signal: null.
+2024-07-19 17:47:28.074 [info] Last EH closed, waiting before shutting down
+2024-07-19 17:47:28.075 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/azureuser/.vscode-server/cli/servers/Stable-f1e16e1e6214d7c44d078b1f0607b2388f29d729/server/out/vs/server/node/server.main.js:192:6383)
+    at process.emit (node:events:518:28)
+2024-07-19 17:47:57.933 [info] [<unknown>][8627c66c][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+2024-07-19 17:52:28.076 [info] Last EH closed, shutting down

@@ -1,6 +1,5 @@
-Listening on 127.0.0.1:35605
-[2024-07-20 16:53:38] info Disposed of connection to running server.
-looking for token baff912c-c8ca-4082-a48b-bba21687ed9e, got Some("baff912c-c8ca-4082-a48b-bba21687ed9e")
-[2024-07-20 16:53:38] info Checking /home/azureuser/.vscode-server/cli/servers/Stable-f1e16e1e6214d7c44d078b1f0607b2388f29d729/log.txt and /home/azureuser/.vscode-server/cli/servers/Stable-f1e16e1e6214d7c44d078b1f0607b2388f29d729/pid.txt for a running server...
-[2024-07-20 16:53:38] info Starting server...
-[2024-07-20 16:53:38] info Server started
+Listening on 127.0.0.1:32957
+[2024-07-20 17:58:59] info Disposed of connection to running server.
+looking for token fe01d834-b309-40c6-9ba3-343ad7d6297f, got Some("fe01d834-b309-40c6-9ba3-343ad7d6297f")
+[2024-07-20 17:59:00] info Checking /home/azureuser/.vscode-server/cli/servers/Stable-f1e16e1e6214d7c44d078b1f0607b2388f29d729/log.txt and /home/azureuser/.vscode-server/cli/servers/Stable-f1e16e1e6214d7c44d078b1f0607b2388f29d729/pid.txt for a running server...
+[2024-07-20 17:59:00] info Found running server (pid=14652)

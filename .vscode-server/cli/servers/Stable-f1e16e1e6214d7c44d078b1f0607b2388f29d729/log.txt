@@ -77,3 +77,7 @@ stack trace: CodeExpectedError: Could not find pty on pty host
     at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
 New EH opened, aborting shutdown
 [16:58:39] New EH opened, aborting shutdown
+[17:26:03] [<unknown>][f396f5f2][ManagementConnection] New connection established.
+[17:26:03] [<unknown>][90c7ef87][ExtensionHostConnection] New connection established.
+[17:26:03] [<unknown>][90c7ef87][ExtensionHostConnection] <16945> Launched Extension Host Process.
+[17:26:24] [<unknown>][122ce140][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...

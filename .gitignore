@@ -1,0 +1,13 @@
+
+/.cache
+/.dotnet
+/.local
+/.ssh
+/.vscode-server
+.bash_history
+.bash_logout
+.bashrc
+.profile
+.python_history
+.wget-hsts
+.sudo_as_admin_successful
